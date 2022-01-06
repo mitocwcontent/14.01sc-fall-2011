@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: Problem 3 Solution Video
+uid: 765bf87d-d700-a3ab-e736-e698385c9771
+video_files:
+  archive_url: http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_4-3_300k.mp4
+  video_captions_file: /courses/14-01sc-principles-of-microeconomics-fall-2011/55487a0ecf15569ca7fcf7dee2318f08_qRkAq_G_9cs.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/qRkAq_G_9cs/default.jpg
+  video_transcript_file: /courses/14-01sc-principles-of-microeconomics-fall-2011/644d8de91136c312a14f275fafece644_qRkAq_G_9cs.pdf
+video_metadata:
+  youtube_id: qRkAq_G_9cs
+---
